@@ -8,8 +8,13 @@ This program is structured to progressively increase in complexity, starting wit
 By the end of the internship, you will have the skills and knowledge to build professional websites and web apps.
 
 🧩 What You Will Learn
+
 Task 1: Basics of HTML, CSS, and JavaScript
+
 Task 2: Forms, validation, responsive design, and DOM manipulation
+
 Task 3: Advanced CSS styling, JavaScript apps, and API data fetching
+
 Task 4: Full project implementation combining all skills learned
+
 Task 5: Final project that includes cross-browser compatibility and performance optimization
